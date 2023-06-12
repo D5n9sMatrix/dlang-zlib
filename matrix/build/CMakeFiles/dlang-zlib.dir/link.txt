@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdlang-zlib.a CMakeFiles/dlang-zlib.dir/dlang-zlib.cpp.o
+/usr/bin/ranlib libdlang-zlib.a

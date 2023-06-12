@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"D5n9sMatrix"
+	],
+	"copyright": "copyright 2022",
+	"description": "books dlang in zlib reference",
+	"license": "MIT",
+	"name": "zlib"
+}

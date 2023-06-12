@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/denis/Projects/dlang-zlib/matrix/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/dlang-zlib.dir/dlang-zlib.cpp.o -c /home/denis/Projects/dlang-zlib/matrix/dlang-zlib.cpp",
+  "file": "/home/denis/Projects/dlang-zlib/matrix/dlang-zlib.cpp"
+}
+]
